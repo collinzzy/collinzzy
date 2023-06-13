@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Emeka Collins 
 - 👀 I’m interested in web development and data science 
-- 🌱 I’m currently learning software engineering 
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me collinzzy11111@gmail.com
 
